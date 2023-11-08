@@ -1,0 +1,4 @@
+{
+    "bank01": {"password": "unsecure"},
+    "bank02": {"password": "notsosecure"}
+}
